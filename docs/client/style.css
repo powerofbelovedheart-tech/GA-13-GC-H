@@ -1,0 +1,5 @@
+:root { color-scheme: light; }
+* { box-sizing: border-box; }
+body { margin: 0; font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji"; background:#fff; color:#111; }
+a { color: #0d6efd; }
+button { border: 1px solid #ddd; background:#fff; cursor:pointer; }
